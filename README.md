@@ -23,5 +23,4 @@ This journal has been made by [Sagar Dhirajlal Patel](https://www.linkedin.com/i
 * Relation
 * Re-start
 
-You can find many more... 
->>>>>>> 0a00635... Update README.md
+You can find many more...
