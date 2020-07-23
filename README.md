@@ -8,19 +8,29 @@ This journal has been made by [Sagar Dhirajlal Patel](https://www.linkedin.com/i
 
 [Life experience](https://docs.google.com/document/d/1vcD3g8FbizbVaBWdq4JQy2Y8U_6jdHsS6jd0eXsS3l0/edit?usp=sharing)
 
-# Few topics of a journal
+# Few topics of the journal
 
 * About the journal
 * Motivation
 * Inspiration
 * Guidance
 * Leadership
-* Communication
+* Communication, Conversation, Dialog
+  * When to talk
+  * What to talk
+  * How to talk
+    * How to express different opinion
+    * How to talk about mistakes, excuses, broken promises and broken commitments
+    * How to deliver negative feedback
+  * How to motivate and enable people
 * About Environment, Rites and Rituals, Habits, Discipline, Focus etc...
 * Success
 * Failure
 * Life
-* Relation
+* Relation and Relationship
 * Re-start
+* Habit
+
+...and a lot more...
 
 You can find many more...
