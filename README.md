@@ -18,10 +18,12 @@ This journal has been made by [Sagar Dhirajlal Patel](https://www.linkedin.com/i
 * Communication, Conversation, Dialog
   * When to talk
   * What to talk
-  * How to talk
+  * [How to talk](https://docs.google.com/document/d/1RfTvuBHlECYBuIb1C3jiO00iwOhdovQsmd4nu49rG14/edit?usp=sharing)
     * How to express different opinion
     * How to talk about mistakes, excuses, broken promises and broken commitments
     * How to deliver negative feedback
+    * How to talk about a concern
+    * How to understand each other
   * How to motivate and enable people
 * About Environment, Rites and Rituals, Habits, Discipline, Focus etc...
 * Success
