@@ -11,21 +11,22 @@ This journal has been made by [Sagar Dhirajlal Patel](https://www.linkedin.com/i
 # Few topics of the journal
 
 * About the journal
+* [How to learn](https://docs.google.com/document/d/1z3PL0WOOsNeMZpX3xmZJdf39akzQfAKyqOV-TvwPPkI/edit?usp=sharing)
+* About Environment, Rites and Rituals, Habits, Discipline, Focus etc...
+* How to talk: Communication, Conversation, Dialog, Presentation
+  * [How to talk](https://docs.google.com/document/d/1RfTvuBHlECYBuIb1C3jiO00iwOhdovQsmd4nu49rG14/edit?usp=sharing)
+    * What to talk?
+    * When to talk?
+    * How to express different opinion and maintain the respect?
+    * How to talk about mistakes, excuses, broken promises and broken commitments while sustaining respect?
+    * How to deliver negative feedback and maintain the respect?
+    * How to talk about a concern and maintain the respect?
+    * How to understand each other?
+  * How to motivate and enable people?
 * Motivation
 * Inspiration
 * Guidance
 * Leadership
-* Communication, Conversation, Dialog
-  * When to talk
-  * What to talk
-  * [How to talk](https://docs.google.com/document/d/1RfTvuBHlECYBuIb1C3jiO00iwOhdovQsmd4nu49rG14/edit?usp=sharing)
-    * How to express different opinion
-    * How to talk about mistakes, excuses, broken promises and broken commitments
-    * How to deliver negative feedback
-    * How to talk about a concern
-    * How to understand each other
-  * How to motivate and enable people
-* About Environment, Rites and Rituals, Habits, Discipline, Focus etc...
 * Success
 * Failure
 * Life
